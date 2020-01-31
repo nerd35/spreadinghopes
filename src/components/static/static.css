@@ -23,3 +23,17 @@
 }
 @media only screen and (max-width: 600px) {
 }
+.whatwe{
+  font-weight: 700;
+}
+.icon-div{
+  color: green;
+}
+.wewhat-title{
+  font-size: 18px;
+  font-weight: 700;
+}
+.donate-btn{
+  color: white !important;
+  background-color: green !important;
+}

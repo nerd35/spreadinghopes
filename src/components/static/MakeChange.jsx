@@ -4,8 +4,8 @@ import './static.css';
 const MakeChange = () => {
   return (
     <div className='container mt-5 bg-dark change-section'>
-      <div className=' row mt-5'>
-        <div className=' col-lg-12 col-sm-12 mt-3 '>
+      <div className=' row mt-5 mb-5'>
+        <div className=' col-lg-12 col-sm-12 mt-3 mb-5 '>
           <h1 className='text-light  change-title'>
             MAKING CHANGES FOR EVERYONE
           </h1>
